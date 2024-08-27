@@ -1,1 +1,1 @@
-# olympic Medal Prediction
+# Olympic Medal Prediction
